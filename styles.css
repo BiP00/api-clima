@@ -1,0 +1,9 @@
+.fondo{
+  background-image: url("fondo.jpg");
+  background-image: fill;
+  height: 500px;
+  width: 1080px;
+}
+.titulo{
+  height: 50px !important;
+}
